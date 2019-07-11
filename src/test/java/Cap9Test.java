@@ -6,7 +6,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 public class Cap9Test {
     @Test
-    public void test01() {
+    public void test09() {
         AnnotationConfigApplicationContext app = new AnnotationConfigApplicationContext(Cap9MainConfig.class);
 
         TestService testService = app.getBean(TestService.class);
@@ -16,7 +16,6 @@ public class Cap9Test {
         System.out.println(testDao);
 
         app.close();
-
 
     }
 }

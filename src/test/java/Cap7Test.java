@@ -14,7 +14,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 public class Cap7Test {
 
     @Test
-    public void test06() {
+    public void test07() {
 
         AnnotationConfigApplicationContext app = new AnnotationConfigApplicationContext(Cap7MainConfigOfKLifeCycle.class);
 

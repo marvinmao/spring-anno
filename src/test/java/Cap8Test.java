@@ -6,7 +6,7 @@ import org.springframework.core.env.ConfigurableEnvironment;
 
 public class Cap8Test {
     @Test
-    public void test01() {
+    public void test08() {
         AnnotationConfigApplicationContext app = new AnnotationConfigApplicationContext(Cap8MainConfig.class);
         //从容器中获取所有bean
         String[] names = app.getBeanDefinitionNames();

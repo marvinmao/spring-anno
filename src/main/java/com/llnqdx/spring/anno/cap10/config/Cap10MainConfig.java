@@ -1,6 +1,6 @@
 package com.llnqdx.spring.anno.cap10.config;
 /**
- * Copyright 2017-2025 Evergrande Group.
+ *
  */
 
 import com.llnqdx.spring.anno.cap10.aop.Calculator;
@@ -11,7 +11,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 /**
  * @Description:
- * @author: maofujiang
+ * @author:
  * @Date: 2019-7-11
  */
 @Configuration

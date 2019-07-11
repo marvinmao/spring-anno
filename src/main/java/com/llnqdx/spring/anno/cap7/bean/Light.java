@@ -1,6 +1,6 @@
 package com.llnqdx.spring.anno.cap7.bean;
 /**
- * Copyright 2017-2025 Evergrande Group.
+ *
  */
 
 import org.springframework.beans.BeansException;

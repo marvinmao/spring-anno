@@ -1,6 +1,6 @@
 package com.llnqdx.spring.anno.cap10.aop;
 /**
- * Copyright 2017-2025 Evergrande Group.
+ *
  */
 
 import org.aspectj.lang.JoinPoint;
